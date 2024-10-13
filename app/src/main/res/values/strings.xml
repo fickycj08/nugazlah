@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Nugazlah</string>
+
+    <string name="logo">🔥 Nugazlah 🔥</string>
+    <string name="logo_collapsed">Nugazlah</string>
+    <string name="login_text">Masuk</string>
+    <string name="register_text">Daftar</string>
+
+    <string name="headline_landing_top">Nugazlah adalah aplikasi pengingat tugas agar kita selalu ingat dengan beban2 perkuliahan.</string>
+    <string name="headline_landing_bottom">Malas mencatat tugas? Tinggal suruh ketua kelas lah 😉</string>
+
+    <string name="make_room">Buat kelas</string>
+    <string name="join_room">Gabung kelas</string>
+
+    <string name="button_text_confirm">Gasin</string>
+    <string name="button_text_cancel">Gjadi</string>
+
+    <string name="login_email_input_label">Email</string>
+    <string name="login_email_placeholder">emailnya apa bg...</string>
+    <string name="login_email_input_error_message">format nya harus email!</string>
+
+    <string name="login_password_input_label">Password</string>
+    <string name="login_password_placeholder">sandinya apa bg...</string>
+
+    <string name="register_fullname_input_label">Nama</string>
+    <string name="register_fullname_placeholder">namanya siapa bg...</string>
+
+    <string name="logout_confirmation">Srius logout?</string>
+
+    <string name="class_code_input_label">Kode kelas</string>
+    <string name="class_code_placeholder">kode kelas nya berapa bg...</string>
+
+    <string name="lecturer_input_label">Pengampu kelas</string>
+    <string name="lecturer_input_placeholder">dosen nya sapa ni bg...</string>
+
+    <string name="class_name_label">Nama kelas</string>
+    <string name="class_name_placeholder">nama kelas nya apa bg...</string>
+
+    <string name="class_description_label">Deskripsi kelas</string>
+    <string name="class_description_placeholder">deskripsiin kelasnya bg...</string>
+
+    <string name="class_icon_label">Icon kelas</string>
+    <string name="class_icon_placeholder">kasi icon sir 🔥</string>
+
+    <string name="task_detail">Detail tugas</string>
+    <string name="task_title">Judul tugas</string>
+    <string name="task_description">Deskripsi tugas</string>
+    <string name="task_type">Jenis tugas</string>
+    <string name="task_source">Detail tugas</string>
+    <string name="task_source_wording">Detail tugas disini bang</string>
+    <string name="task_submission">Tempat ngumpulin</string>
+    <string name="task_submission_wording">Ngumpulinnya disini bang</string>
+    <string name="task_deadline">Deadline tugas</string>
+
+    <string name="add_task">Tambah tugas</string>
+    <string name="task_title_placeholder">judul tugas tugas nya apa bg...</string>
+    <string name="task_description_placeholder">deskripsiin tugas nya bg...</string>
+    <string name="task_detail_placeholder">kasi link or tulis aja tempatnya bg...</string>
+    <string name="task_submission_placeholder">kasi link or tulis aja tempatnya bg...</string>
+    <string name="task_deadline_placeholder">klik aja bg buat milih waktunya...</string>
+
+    <string name="there_is_no_classes">There is no classes</string>
+    <string name="there_is_no_taks">There is no tasks</string>
+
+    <string name="notif_title">"%1$s deadline nya %2$s"</string>
+</resources>
