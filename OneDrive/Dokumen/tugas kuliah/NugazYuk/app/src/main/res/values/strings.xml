@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">NugazYuk</string>
+
+    <string name="logo">🔥 NugazYuk 🔥</string>
+    <string name="logo_collapsed">NugazYuk</string>
+    <string name="login_text">Masuk</string>
+    <string name="register_text">Daftar</string>
+
+    <string name="headline_landing_top">NugazYuk adalah aplikasi pengingat tugas yang membantu kamu mengingat semua tugas perkuliahan.</string>
+    <string name="headline_landing_bottom">Malas mencatat tugas? Serahkan saja kepada ketua kelas 😉</string>
+
+    <string name="make_room">Buat Kelas</string>
+    <string name="join_room">Gabung Kelas</string>
+
+    <string name="button_text_confirm">Konfirmasi</string>
+    <string name="button_text_cancel">Batal</string>
+
+    <string name="login_email_input_label">Email</string>
+    <string name="login_email_placeholder">Masukkan email...</string>
+    <string name="login_email_input_error_message">Format harus berupa email!</string>
+
+    <string name="login_password_input_label">Kata Sandi</string>
+    <string name="login_password_placeholder">Masukkan kata sandi...</string>
+
+    <string name="register_fullname_input_label">Nama Lengkap</string>
+    <string name="register_fullname_placeholder">Masukkan nama lengkap...</string>
+
+    <string name="logout_confirmation">Apakah kamu yakin ingin keluar?</string>
+
+    <string name="class_code_input_label">Kode Kelas</string>
+    <string name="class_code_placeholder">Masukkan kode kelas...</string>
+
+    <string name="lecturer_input_label">Dosen Pengampu</string>
+    <string name="lecturer_input_placeholder">Masukkan nama dosen pengampu...</string>
+
+    <string name="class_name_label">Nama Kelas</string>
+    <string name="class_name_placeholder">Masukkan nama kelas...</string>
+
+    <string name="class_description_label">Deskripsi Kelas</string>
+    <string name="class_description_placeholder">Masukkan deskripsi kelas...</string>
+
+    <string name="class_icon_label">Icon Kelas</string>
+    <string name="class_icon_placeholder">Pilih icon kelas 🔥</string>
+
+    <string name="task_detail">Detail Tugas</string>
+    <string name="task_title">Judul Tugas</string>
+    <string name="task_description">Deskripsi Tugas</string>
+    <string name="task_type">Jenis Tugas</string>
+    <string name="task_source">Sumber Tugas</string>
+    <string name="task_source_wording">Tulis sumber tugas di sini</string>
+    <string name="task_submission">Tempat Pengumpulan</string>
+    <string name="task_submission_wording">Tulis tempat pengumpulan di sini</string>
+    <string name="task_deadline">Batas Waktu Pengumpulan</string>
+
+    <string name="add_task">Tambah Tugas</string>
+    <string name="task_title_placeholder">Masukkan judul tugas...</string>
+    <string name="task_description_placeholder">Masukkan deskripsi tugas...</string>
+    <string name="task_detail_placeholder">Masukkan detail tugas atau tautan...</string>
+    <string name="task_submission_placeholder">Masukkan tempat pengumpulan atau tautan...</string>
+    <string name="task_deadline_placeholder">Klik untuk memilih tanggal batas waktu...</string>
+
+    <string name="there_is_no_classes">Tidak ada kelas</string>
+    <string name="there_is_no_taks">Tidak ada tugas</string>
+
+    <string name="notif_title">"%1$s deadline pada %2$s"</string>
+</resources>
